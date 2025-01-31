@@ -27,7 +27,7 @@ This Power BI report visualizes **Real Madrid's player transfer history**, inclu
 3. Modify visuals or add new datasets if needed.
 
 ## 📷 Screenshots
-![Dashboard](C:\Users\Rayya\Documents\UWO Folder BMOS\Certifcates.Resume.UniDocs\Projects)
+![Dashboard](image_2025-01-31_085039307.png)
 
 ## 📌 Future Improvements
 - Add a breakdown by player positions.
