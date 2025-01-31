@@ -14,7 +14,6 @@ This Power BI report visualizes **Real Madrid's player transfer history**, inclu
 - `RealMadrid_Transfers.pbix` - Power BI report file.
 - `Transfers_Dataset.csv` - Dataset used in the report.
 - `README.md` - This file.
-- `background.jpg` - Background image used in the report.
 
 ## 📈 Visuals in the Report
 - **Clustered Bar Chart** - Showing total spending per player.
